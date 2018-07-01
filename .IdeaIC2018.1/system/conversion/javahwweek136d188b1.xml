@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\compiler.xml" timestamp="1529010924139" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\encodings.xml" timestamp="1529010924157" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\gradle.xml" timestamp="1529010924162" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\misc.xml" timestamp="1529010925866" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\modules.xml" timestamp="1529011036419" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\uiDesigner.xml" timestamp="1529010924192" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\vcs.xml" timestamp="1529010924202" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\.idea\workspace.xml" timestamp="1529045362441" />
+    <file path="C:\Users\Lenovo\IdeaProjects\javahwweek1\javahwweek1.iml" timestamp="1529010924322" />
+  </project-files>
+</conversion>
+

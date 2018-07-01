@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\compiler.xml" timestamp="1528843181151" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\encodings.xml" timestamp="1528843181166" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\gradle.xml" timestamp="1528843181166" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\misc.xml" timestamp="1528843186853" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\modules.xml" timestamp="1528843457622" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\uiDesigner.xml" timestamp="1528843181198" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\vcs.xml" timestamp="1528843181198" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\.idea\workspace.xml" timestamp="1529010936408" />
+    <file path="C:\Users\Lenovo\IdeaProjects\helloWorld\helloWorld.iml" timestamp="1528843181229" />
+  </project-files>
+</conversion>
+

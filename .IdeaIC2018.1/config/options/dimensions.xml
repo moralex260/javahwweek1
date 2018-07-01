@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="689" y="141" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="511" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="320" y="4" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="961" y="453" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="424" y="203" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="730" y="346" />
+    <size key="new project wizard.0.0.1920.1080@120dpi" width="1152" height="974" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1925" height="209" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1925" height="209" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1925" height="209" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1925" height="209" />
+  </component>
+</application>
